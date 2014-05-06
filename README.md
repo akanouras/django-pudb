@@ -9,10 +9,10 @@ Installing
    - Set DEBUG_PROPAGATE_EXCEPTIONS = True
 2. Run ./manage.py runserver --nothreading
 
-Now you should see PUDB pop up in your console window whenever a view 
+Now you should see PuDB pop up in your console window whenever a view 
 raises an exception.
 
 Notes
 -----
 
-As PUDB doesn't support threading (yet, hopefully), django-pudb doesn't either.
+As PuDB doesn't support threading (yet, hopefully), django-pudb doesn't either.

@@ -14,7 +14,7 @@ def read(*paths):
 setup(
     name='django-pudb',
     version='0.1.0',
-    description='PUDB integration for Django.',
+    description='PuDB integration for Django.',
     long_description=read('README.md'),
     url='https://github.com/akanouras/django-pudb/',
     license='MIT',
